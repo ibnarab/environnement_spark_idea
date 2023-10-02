@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\ibnar\hello3\target\scala-2.11\hello3_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	hello3_2$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ibnar\hello3\target\scala-2.11\classes\hello3_2$.class[0m
+[0m[[0mdebug[0m] [0m	hello3_2.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ibnar\hello3\target\scala-2.11\classes\hello3_2.class[0m
+[0m[[0mdebug[0m] [0m	hello3.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ibnar\hello3\target\scala-2.11\classes\hello3.class[0m
+[0m[[0mdebug[0m] [0m	hello3$.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ibnar\hello3\target\scala-2.11\classes\hello3$.class[0m
+[0m[[0mdebug[0m] [0m	Continent-Country.csv[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\ibnar\hello3\target\scala-2.11\classes\Continent-Country.csv[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
